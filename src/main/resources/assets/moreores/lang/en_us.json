@@ -2,5 +2,8 @@
   "item.moreores.ruby": "Ruby",
   "item.moreores.raw_ruby": "Raw Ruby",
 
+  "block.moreores.ruby_block": "Block of Ruby",
+  "block.moreores.raw_ruby_block": "Block of Raw Ruby",
+
   "itemgroup.more_ores": "More Ores"
 }

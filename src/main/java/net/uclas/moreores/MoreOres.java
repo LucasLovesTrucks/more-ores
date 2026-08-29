@@ -4,6 +4,7 @@ import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.util.Identifier;
 
+import net.uclas.moreores.block.ModBlocks;
 import net.uclas.moreores.item.ModItemGroups;
 import net.uclas.moreores.item.ModItems;
 import org.slf4j.Logger;
@@ -19,5 +20,6 @@ public class MoreOres implements ModInitializer {
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

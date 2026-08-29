@@ -8,6 +8,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 import net.uclas.moreores.MoreOres;
+import net.uclas.moreores.block.ModBlocks;
 
 public class ModItemGroups {
     public static final ItemGroup MORE_ORES_GROUP = Registry.register(Registries.ITEM_GROUP,
@@ -16,6 +17,9 @@ public class ModItemGroups {
                     .icon(() -> new ItemStack(ModItems.RUBY)).entries((displayContext, entries) -> {
                         entries.add(ModItems.RUBY);
                         entries.add(ModItems.RAW_RUBY);
+
+                        entries.add(ModBlocks.RUBY_BLOCK);
+                        entries.add(ModBlocks.RAW_RUBY_BLOCK);
                     }).build());
 
     public static void registerItemGroups() {
