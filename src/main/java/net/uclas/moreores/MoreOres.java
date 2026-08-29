@@ -4,6 +4,8 @@ import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.util.Identifier;
 
+import net.uclas.moreores.item.ModItemGroups;
+import net.uclas.moreores.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -15,10 +17,7 @@ public class MoreOres implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric world!");
-	}
-
-	public static Identifier id(String path) {
-		return new Identifier(MOD_ID, path);
+		ModItemGroups.registerItemGroups();
+		ModItems.registerModItems();
 	}
 }
