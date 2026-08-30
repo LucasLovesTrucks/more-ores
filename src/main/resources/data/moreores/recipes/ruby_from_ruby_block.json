@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "moreores:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "moreores:ruby",
+    "count": 9
+  }
+}
