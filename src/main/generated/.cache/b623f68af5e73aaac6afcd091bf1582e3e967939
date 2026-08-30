@@ -1,0 +1,11 @@
+// 1.20.1	2026-08-30T16:50:40.757945	more-ores/Model Definitions
+bba2c6b887a1961e93beee2f29f1707a48e67cf4 assets\moreores\models\block\deepslate_ruby_ore.json
+2161405b4c503c9dee2524ddc615e20d84562811 assets\moreores\models\block\ruby_ore.json
+8740b819dd4b612123aa5461f830b3c5d6a5c54f assets\moreores\blockstates\raw_ruby_block.json
+18120affd84f0b347ae8f6484f9426eed775b0a9 assets\moreores\models\block\raw_ruby_block.json
+c8793a0d368cdd48b7d8b1d711c3410552413196 assets\moreores\blockstates\ruby_ore.json
+f287b25e2c107a549281c1178f5d76a805504a98 assets\moreores\models\item\ruby.json
+af2f27ce1af43ed0150bcff1bf012fa7296fc6e3 assets\moreores\models\block\ruby_block.json
+4c1d701cf2b58c25532190bf49f0b73ab0658091 assets\moreores\blockstates\deepslate_ruby_ore.json
+18982e80d0af9846ad49c0864be27fbf6e67137d assets\moreores\models\item\raw_ruby.json
+c83e22ba907b5a0c25248f073560093766d700bf assets\moreores\blockstates\ruby_block.json
