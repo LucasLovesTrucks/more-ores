@@ -4,6 +4,8 @@
 
   "block.moreores.ruby_block": "Block of Ruby",
   "block.moreores.raw_ruby_block": "Block of Raw Ruby",
+  "block.moreores.ruby_ore": "Ruby Ore",
+  "block.moreores.deepslate_ruby_ore": "Deepslate Ruby Ore",
 
   "itemgroup.more_ores": "More Ores"
 }

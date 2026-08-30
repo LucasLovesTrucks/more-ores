@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "moreores:ruby_block",
+    "moreores:raw_ruby_block",
+    "moreores:ruby_ore",
+    "moreores:deepslate_ruby_ore"
+  ]
+}
